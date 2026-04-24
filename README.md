@@ -1,5 +1,6 @@
 # Tableau-Dashboard-for-Swiggy
 Swiggy: Web Traffic & Conversion Funnel Analysis
+
 📌 Project Overview
 This project involves a deep-dive analysis of Swiggy’s web traffic and user behavior patterns using Tableau. The objective was to track the end-to-end user journey from landing page to checkout, identify friction points in the conversion funnel, and optimize traffic reporting by filtering out non-human activity.
 
